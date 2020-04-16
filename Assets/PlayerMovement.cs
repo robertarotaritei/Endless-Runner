@@ -4,19 +4,28 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public Rigidbody rb;
-    public float forwardForce;
-    public float sidewaysForce;
+    public float speed;
+    public float mapWidth;
+    private Rigidbody rb;
     // Start is called before the first frame update
     void Start()
     {
-
+        rb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        rb.AddForce(0, 0, forwardForce * Time.deltaTime);
-        transform.Translate(Input.GetAxis("Horizontal") * sidewaysForce, 0f, 0);
+        var sidewaysForce = Input.GetAxis("Horizontal") * Time.fixedDeltaTime * speed;
+        var newPosition = rb.position + Vector3.right * sidewaysForce;
+
+        newPosition.x = Mathf.Clamp(newPosition.x, - mapWidth, mapWidth);
+
+        rb.MovePosition(newPosition);
+    }
+
+    private void OnCollisionEnter()
+    {
+        FindObjectOfType<Manager>().EndGame();
     }
 }
