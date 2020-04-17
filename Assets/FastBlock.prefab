@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &114228720824708918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4126640689636621365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 801c8a0e1318d5147b827f460e8af086, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gravityScaleFactor: 20
 --- !u!1001 &259865718309961281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7,6 +20,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 114447267226495610, guid: f2c212083dfd59949a55454f31465295,
+        type: 3}
+      propertyPath: gravityScaleFactor
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 4242390477742801513, guid: f2c212083dfd59949a55454f31465295,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -67,10 +85,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4242390477742801515, guid: f2c212083dfd59949a55454f31465295,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 4242390477742801524, guid: f2c212083dfd59949a55454f31465295,
         type: 3}
       propertyPath: m_Name
-      value: BlockTunnel Variant
+      value: FastBlock
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114447267226495610, guid: f2c212083dfd59949a55454f31465295, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: f2c212083dfd59949a55454f31465295, type: 3}
+--- !u!1 &4126640689636621365 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4242390477742801524, guid: f2c212083dfd59949a55454f31465295,
+    type: 3}
+  m_PrefabInstance: {fileID: 259865718309961281}
+  m_PrefabAsset: {fileID: 0}

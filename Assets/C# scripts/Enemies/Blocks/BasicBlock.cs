@@ -1,18 +1,22 @@
 ﻿using UnityEngine;
 
-public class Block : MonoBehaviour
+public class BasicBlock : Block
 {
-    public float gravityScaleFactor = 20f;
-    void Start()
+    public override void Start()
     {
+        gravityScaleFactor = 20f;
         GetComponent<Rigidbody>().mass += Time.timeSinceLevelLoad / gravityScaleFactor;
     }
-    void Update()
+    public override void FixedUpdate()
     {
         if(transform.position.y < -10f)
         {
             FindObjectOfType<Score>().score += 0.25f;
             Destroy(gameObject);
         }
+    }
+    private void OnCollisionEnter()
+    {
+        FadeToWhite();
     }
 }
