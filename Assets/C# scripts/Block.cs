@@ -11,6 +11,7 @@ public class Block : MonoBehaviour
     {
         if(transform.position.y < -10f)
         {
+            FindObjectOfType<Score>().score += 0.25f;
             Destroy(gameObject);
         }
     }
