@@ -17,8 +17,12 @@ public class FastBlock : Block
             Destroy(gameObject);
         }
     }
-    private void OnCollisionEnter()
+    private void OnCollisionEnter(Collision collision)
     {
-        FadeToWhite();
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            var fadeToWhite = base.GetComponent<Animator>();
+            fadeToWhite.Play("FadeToWhite");
+        }
     }
 }
