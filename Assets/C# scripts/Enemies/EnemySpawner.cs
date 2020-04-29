@@ -7,6 +7,7 @@ public class EnemySpawner : MonoBehaviour
     public Transform[] spawnPoints;
     public GameObject basicBlock;
     public GameObject fastBlock;
+    public GameObject longBlock;
     public float timeToChange = 15f;
     private float timeToSpawn = 15f;
     private int randomEnemy = 0;
@@ -14,25 +15,31 @@ public class EnemySpawner : MonoBehaviour
 
     void Start()
     {
-        enemy = new BasicSpawner(basicBlock, spawnPoints);
+        enemy = new LongSpawner(longBlock, spawnPoints);
     }
 
     void FixedUpdate()
     {
-        if (Time.timeSinceLevelLoad >= timeToSpawn && Time.timeSinceLevelLoad >= enemy.timeToSpwan)
+        if (Time.timeSinceLevelLoad >= timeToSpawn)
         {
-            randomEnemy = Random.Range(0, 2);
-            switch (randomEnemy)
+            if (Time.timeSinceLevelLoad >= enemy.timeToSpwan)
             {
-                case 0:
-                    enemy = new BasicSpawner(basicBlock, spawnPoints);
-                    break;
-                case 1:
-                    enemy = new FastSpawner(fastBlock, spawnPoints);
-                    break;
-            }
+                randomEnemy = Random.Range(0, 3);
+                switch (randomEnemy)
+                {
+                    case 0:
+                        enemy = new BasicSpawner(basicBlock, spawnPoints);
+                        break;
+                    case 1:
+                        enemy = new FastSpawner(fastBlock, spawnPoints);
+                        break;
+                    case 2:
+                        enemy = new LongSpawner(longBlock, spawnPoints);
+                        break;
+                }
 
-            timeToSpawn = Time.time + timeToChange;
+                timeToSpawn = Time.timeSinceLevelLoad + timeToChange;
+            }
         }
         enemy.FixedUpdate();
     }

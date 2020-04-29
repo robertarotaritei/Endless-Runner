@@ -23,10 +23,64 @@ public class FastSpawner : Spawner
         if (Time.timeSinceLevelLoad >= timeToSpwan)
         {
             SpawnBlocks(block);
+
             timeToSpwan = Time.timeSinceLevelLoad + timeBetweenWaves;
         }
     }
+    void ChooseNewSpawnPoint()
+    {
+        int left = randomSpawn - 1;
+        int right = randomSpawn + 1;
+        if (left < 0)
+        {
+            left++;
+            randomSpawn = Random.Range(0, 3);
+            if (randomSpawn == 0)
+            {
+                randomSpawn = left;
+            }
+            else
+            {
+                randomSpawn = right;
+            }
+        }
+        else
+        {
+            if (right >= spawnPoints.Length)
+            {
+                right--;
+                randomSpawn = Random.Range(0, 3);
+                if (randomSpawn == 0)
+                {
+                    randomSpawn = right;
+                }
+                else
+                {
+                    randomSpawn = left;
+                }
+            }
+            else
+            {
+                randomSpawn = Random.Range(0, 5);
 
+                if (randomSpawn < 2)
+                {
+                    randomSpawn = left;
+                }
+                else
+                {
+                    if (randomSpawn == 2)
+                    {
+                        randomSpawn = left + 1;
+                    }
+                    else
+                    {
+                        randomSpawn = right;
+                    }
+                }
+            }
+        }
+    }
     void SpawnBlocks(GameObject block)
     {
         for (int i = 0; i < spawnPoints.Length; i++)
@@ -36,17 +90,6 @@ public class FastSpawner : Spawner
                 Instantiate(block, spawnPoints[i].position, Quaternion.identity);
             }
         }
-
-        int left = randomSpawn - 1;
-        int right = randomSpawn + 1;
-        if (left < 0)
-        {
-            left++;
-        }
-        if (right >= spawnPoints.Length)
-        {
-            right--;
-        }
-        randomSpawn = Random.Range(left, right + 1);
+        ChooseNewSpawnPoint();
     }
 }

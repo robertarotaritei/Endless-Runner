@@ -7,6 +7,7 @@ public class PauseMenu : MonoBehaviour
 {
     public static bool gameIsPaused = false;
     public GameObject pauseMenuUI;
+    public GameObject pauseButton;
 
     void Update()
     {
@@ -20,24 +21,26 @@ public class PauseMenu : MonoBehaviour
             {
                 Pause();
             }
-
-            gameIsPaused = !gameIsPaused;
         }
     }
 
     public void Resume()
     {
+        gameIsPaused = !gameIsPaused;
         pauseMenuUI.SetActive(false);
+        pauseButton.SetActive(true);
         Time.timeScale = 1f;
     }
     public void Pause()
     {
+        gameIsPaused = !gameIsPaused;
         pauseMenuUI.SetActive(true);
+        pauseButton.SetActive(false);
         Time.timeScale = 0f;
     }
     public void LoadMenu()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 }
