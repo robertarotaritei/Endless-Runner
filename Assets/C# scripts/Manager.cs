@@ -7,10 +7,10 @@ public class Manager : MonoBehaviour
     public float slowDownFactor = 10f;
     public void EndGame()
     {
-        StartCoroutine(RestartLevel());
+        StartCoroutine(GameOver());
     }
 
-    IEnumerator RestartLevel()
+    IEnumerator GameOver()
     {
         Time.timeScale = 1f / slowDownFactor;
         Time.fixedDeltaTime = Time.fixedDeltaTime / slowDownFactor;
@@ -19,6 +19,7 @@ public class Manager : MonoBehaviour
 
         Time.timeScale = 1f;
         Time.fixedDeltaTime = Time.fixedDeltaTime * slowDownFactor;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

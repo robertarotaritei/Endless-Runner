@@ -14,7 +14,7 @@ public class FastSpawner : Spawner
     public override void Start()
     {
         randomSpawn = Random.Range(0, spawnPoints.Length);
-        timeToSpwan = 1f;
+        timeToSpwan += 0.5f;
         timeBetweenWaves = 1f;
     }
 

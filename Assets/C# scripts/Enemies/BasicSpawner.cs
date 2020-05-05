@@ -13,7 +13,7 @@ public class BasicSpawner : Spawner
     public override void Start()
     {
         timeBetweenWaves = 1.7f;
-        timeToSpwan = 1f;
+        timeToSpwan += 0.5f;
     }
     public override void FixedUpdate()
     {

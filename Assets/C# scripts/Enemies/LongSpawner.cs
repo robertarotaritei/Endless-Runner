@@ -14,7 +14,7 @@ public class LongSpawner : Spawner
     public override void Start()
     {
         randomSpawn = Random.Range(0, spawnPoints.Length);
-        timeToSpwan = 2f;
+        timeToSpwan += 1f;
         timeBetweenWaves = 1f;
     }
 

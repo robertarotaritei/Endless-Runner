@@ -15,7 +15,7 @@ public class EnemySpawner : MonoBehaviour
 
     void Start()
     {
-        enemy = new LongSpawner(longBlock, spawnPoints);
+        enemy = new BasicSpawner(basicBlock, spawnPoints);
     }
 
     void FixedUpdate()

@@ -7,6 +7,8 @@ public class Score : MonoBehaviour
     public Text scoreText;
     public Text pauseScoreText;
     public Text highScoreText;
+    public Material groundColor;
+    public GameObject ground;
     private Color[] colors;
     private int colorNumber = -1;
     private bool changeColorOnce = true;
@@ -44,8 +46,8 @@ public class Score : MonoBehaviour
             if (changeColorOnce)
             {
                 colorNumber = (colorNumber + 1) % 7;
-                var block = Resources.Load<Material>("Block");
                 StartCoroutine(BackgroundColorShifter(colorNumber));
+                StartCoroutine(GroundColorShifter(colorNumber, groundColor));
                 changeColorOnce = false;
             }
         }
@@ -67,16 +69,17 @@ public class Score : MonoBehaviour
             t += Time.deltaTime;
         }
     }
-    //IEnumerator GroundColorShifter(GameObject ground)
-    //{
-    //    var color = colors[colorNumber];
-    //    var t = 0f;
-    //    var currentColor = ground.;
-    //    while (t < 1.0)
-    //    {
-    //        currentColor = Color.Lerp(currentColor, color, t);
-    //        yield return null;
-    //        t += Time.deltaTime;
-    //    }
-    //}
+    IEnumerator GroundColorShifter(int colorNumber, Material groundColor)
+    {
+        var color = colors[colorNumber];
+        var t = 0f;
+        var currentColor = groundColor.color;
+        while (t < 1.0)
+        {
+            groundColor.color = Color.Lerp(currentColor, color, t);
+            ground.GetComponent<MeshRenderer>().material = groundColor;
+            yield return null;
+            t += Time.deltaTime;
+        }
+    }
 }

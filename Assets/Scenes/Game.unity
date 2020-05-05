@@ -166,6 +166,8 @@ MonoBehaviour:
   scoreText: {fileID: 55605842}
   pauseScoreText: {fileID: 846813824}
   highScoreText: {fileID: 1661200928}
+  groundColor: {fileID: 2100000, guid: f8893086825f72340a3dd07e53aae106, type: 2}
+  ground: {fileID: 172653831}
 --- !u!114 &55605842
 MonoBehaviour:
   m_ObjectHideFlags: 0
