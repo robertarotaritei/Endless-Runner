@@ -1,12 +1,15 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 public class Score : MonoBehaviour
 {
     public float score = 0;
     public Text scoreText;
     public Text pauseScoreText;
     public Text highScoreText;
+    public TextMeshProUGUI finalHighScoreText;
+    public TextMeshProUGUI finalScoreText;
     public Material groundColor;
     public GameObject ground;
     private Color[] colors;
@@ -35,7 +38,8 @@ public class Score : MonoBehaviour
         scoreText.text = score.ToString();
         pauseScoreText.text = "Current score \n" + score.ToString();
         highScoreText.text = "High score \n" + PlayerPrefs.GetInt("HighScore", 0).ToString();
-
+        finalScoreText.text = "Final Score \n" + score.ToString();
+        finalHighScoreText.text = "High score \n" + PlayerPrefs.GetInt("HighScore", 0).ToString();
         if (score > PlayerPrefs.GetInt("HighScore", 0))
         {
             PlayerPrefs.SetInt("HighScore", (int)score); 

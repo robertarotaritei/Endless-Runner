@@ -28,6 +28,5 @@ public class PlayerMovement : MonoBehaviour
     private void OnCollisionEnter()
     {
         FindObjectOfType<Manager>().EndGame();
-
     }
 }
