@@ -1,0 +1,3776 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-08-22T23:49:46.889+02:00
+  initializedAtString: 2020-08-22T23:49:46.889+02:00
+  log:
+  - commitID: 16865c5588c489a43de74b1e16dca2d69ff4cfd7
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Fix Executable Name
+    description: 
+    timeString: 2020-08-12T13:33:59.000+02:00
+    commitTimeString: 2020-08-12T13:33:59.000+02:00
+    changes:
+    - path: Endless Runner\Endless Runner.exe
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner.exe
+      projectPath: Endless Runner\Endless Runner.exe
+      originalPath: Endless Runner\First Game.exe
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\Assembly-CSharp.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\Assembly-CSharp.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\Mono.Security.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\Mono.Security.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\Mono.Security.dll
+      originalPath: Endless Runner\First Game_Data\Managed\Mono.Security.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.ComponentModel.Composition.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.ComponentModel.Composition.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.ComponentModel.Composition.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.ComponentModel.Composition.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Configuration.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Configuration.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Configuration.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Configuration.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Core.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Core.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Core.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Core.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Data.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Data.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Data.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Data.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Diagnostics.StackTrace.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Diagnostics.StackTrace.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Diagnostics.StackTrace.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Diagnostics.StackTrace.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Drawing.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Drawing.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Drawing.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Drawing.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.EnterpriseServices.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.EnterpriseServices.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.EnterpriseServices.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.EnterpriseServices.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Globalization.Extensions.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Globalization.Extensions.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Globalization.Extensions.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Globalization.Extensions.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.IO.Compression.FileSystem.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.IO.Compression.FileSystem.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.IO.Compression.FileSystem.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.IO.Compression.FileSystem.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.IO.Compression.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.IO.Compression.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.IO.Compression.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.IO.Compression.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Net.Http.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Net.Http.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Net.Http.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Net.Http.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Numerics.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Numerics.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Numerics.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Numerics.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Runtime.Serialization.Xml.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Runtime.Serialization.Xml.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Runtime.Serialization.Xml.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.Xml.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Runtime.Serialization.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Runtime.Serialization.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Runtime.Serialization.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.ServiceModel.Internals.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.ServiceModel.Internals.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.ServiceModel.Internals.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.ServiceModel.Internals.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Transactions.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Transactions.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Transactions.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Transactions.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Xml.Linq.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Xml.Linq.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Xml.Linq.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Xml.Linq.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Xml.XPath.XDocument.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Xml.XPath.XDocument.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Xml.XPath.XDocument.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Xml.XPath.XDocument.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.Xml.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.Xml.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.Xml.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.Xml.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\System.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\System.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\System.dll
+      originalPath: Endless Runner\First Game_Data\Managed\System.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\Unity.Analytics.StandardEvents.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\Unity.Analytics.StandardEvents.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\Unity.Analytics.StandardEvents.dll
+      originalPath: Endless Runner\First Game_Data\Managed\Unity.Analytics.StandardEvents.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AIModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.AIModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AIModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.AIModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ARModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ARModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ARModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ARModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AccessibilityModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.AccessibilityModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AccessibilityModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.AccessibilityModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AnimationModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.AnimationModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AnimationModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.AnimationModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AssetBundleModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.AssetBundleModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AssetBundleModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.AssetBundleModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AudioModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.AudioModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.AudioModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.AudioModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.BaselibModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.BaselibModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.BaselibModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.BaselibModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClothModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClothModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClothModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ClothModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClusterInputModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClusterInputModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClusterInputModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ClusterInputModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.CoreModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.CrashReportingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.CrashReportingModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.CrashReportingModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.CrashReportingModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.DirectorModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.DirectorModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.DirectorModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.DirectorModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.GameCenterModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.GameCenterModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.GameCenterModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.GameCenterModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.GridModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.GridModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.GridModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.GridModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.HotReloadModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.HotReloadModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.HotReloadModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.HotReloadModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.IMGUIModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.IMGUIModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.IMGUIModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.IMGUIModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ImageConversionModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ImageConversionModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ImageConversionModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ImageConversionModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.InputModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.InputModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.InputModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.InputModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.LocalizationModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.LocalizationModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.LocalizationModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.LocalizationModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.Networking.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.Networking.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.Networking.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.Networking.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.Physics2DModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.Physics2DModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.Physics2DModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.Physics2DModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.PhysicsModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ProfilerModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ProfilerModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ProfilerModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ProfilerModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpatialTracking.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpatialTracking.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpatialTracking.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.SpatialTracking.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.StreamingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.StreamingModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.StreamingModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.StreamingModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.StyleSheetsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.StyleSheetsModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.StyleSheetsModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.StyleSheetsModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SubstanceModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.SubstanceModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.SubstanceModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.SubstanceModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TLSModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.TLSModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TLSModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.TLSModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TerrainModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.TerrainModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TerrainModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.TerrainModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TextCoreModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.TextCoreModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TextCoreModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.TextCoreModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TextRenderingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.TextRenderingModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TextRenderingModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.TextRenderingModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TilemapModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.TilemapModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TilemapModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.TilemapModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.Timeline.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.Timeline.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.Timeline.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.Timeline.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TimelineModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.TimelineModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.TimelineModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.TimelineModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UI.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UI.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UI.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UI.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UIElementsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UIElementsModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UIElementsModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UIElementsModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UIModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UIModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UIModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UIModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UNETModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UNETModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UNETModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UNETModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UmbraModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UmbraModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UmbraModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UmbraModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityConnectModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityConnectModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityConnectModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityConnectModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VFXModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.VFXModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VFXModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.VFXModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VRModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.VRModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VRModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.VRModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VehiclesModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.VehiclesModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VehiclesModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.VehiclesModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VideoModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.VideoModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.VideoModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.VideoModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.WindModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.WindModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.WindModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.WindModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.XRModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.XRModule.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.XRModule.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.XRModule.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\UnityEngine.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\UnityEngine.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\UnityEngine.dll
+      originalPath: Endless Runner\First Game_Data\Managed\UnityEngine.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\mscorlib.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\mscorlib.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\mscorlib.dll
+      originalPath: Endless Runner\First Game_Data\Managed\mscorlib.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Managed\netstandard.dll
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Managed\netstandard.dll
+      projectPath: Endless Runner\Endless Runner_Data\Managed\netstandard.dll
+      originalPath: Endless Runner\First Game_Data\Managed\netstandard.dll
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Resources\unity default resources
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Resources\unity
+        default resources
+      projectPath: Endless Runner\Endless Runner_Data\Resources\unity default resources
+      originalPath: Endless Runner\First Game_Data\Resources\unity default resources
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\Resources\unity_builtin_extra
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\Resources\unity_builtin_extra
+      projectPath: Endless Runner\Endless Runner_Data\Resources\unity_builtin_extra
+      originalPath: Endless Runner\First Game_Data\Resources\unity_builtin_extra
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\app.info
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\app.info
+      projectPath: Endless Runner\Endless Runner_Data\app.info
+      originalPath: Endless Runner\First Game_Data\app.info
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\boot.config
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\boot.config
+      projectPath: Endless Runner\Endless Runner_Data\boot.config
+      originalPath: Endless Runner\First Game_Data\boot.config
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\globalgamemanagers
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\globalgamemanagers
+      projectPath: Endless Runner\Endless Runner_Data\globalgamemanagers
+      originalPath: Endless Runner\First Game_Data\globalgamemanagers
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\globalgamemanagers.assets
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\globalgamemanagers.assets
+      projectPath: Endless Runner\Endless Runner_Data\globalgamemanagers.assets
+      originalPath: Endless Runner\First Game_Data\globalgamemanagers.assets
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\level0
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\level0
+      projectPath: Endless Runner\Endless Runner_Data\level0
+      originalPath: Endless Runner\First Game_Data\level0
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\level0.resS
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\level0.resS
+      projectPath: Endless Runner\Endless Runner_Data\level0.resS
+      originalPath: Endless Runner\First Game_Data\level0.resS
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\level1
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\level1
+      projectPath: Endless Runner\Endless Runner_Data\level1
+      originalPath: Endless Runner\First Game_Data\level1
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\level1.resS
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\level1.resS
+      projectPath: Endless Runner\Endless Runner_Data\level1.resS
+      originalPath: Endless Runner\First Game_Data\level1.resS
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\resources.assets
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\resources.assets
+      projectPath: Endless Runner\Endless Runner_Data\resources.assets
+      originalPath: Endless Runner\First Game_Data\resources.assets
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\resources.assets.resS
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\resources.assets.resS
+      projectPath: Endless Runner\Endless Runner_Data\resources.assets.resS
+      originalPath: Endless Runner\First Game_Data\resources.assets.resS
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\sharedassets0.assets
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\sharedassets0.assets
+      projectPath: Endless Runner\Endless Runner_Data\sharedassets0.assets
+      originalPath: Endless Runner\First Game_Data\sharedassets0.assets
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\sharedassets0.assets.resS
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\sharedassets0.assets.resS
+      projectPath: Endless Runner\Endless Runner_Data\sharedassets0.assets.resS
+      originalPath: Endless Runner\First Game_Data\sharedassets0.assets.resS
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\Endless Runner_Data\sharedassets1.assets
+      fullPath: D:\Github games\First Game\Endless Runner\Endless Runner_Data\sharedassets1.assets
+      projectPath: Endless Runner\Endless Runner_Data\sharedassets1.assets
+      originalPath: Endless Runner\First Game_Data\sharedassets1.assets
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Assembly-CSharp.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Assembly-CSharp.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 9f4d3bf5b386c24c74b9c953a49a0cdd467b9577
+    mergeA: da48a5dca072265932268ad3e921a42476cb2b11
+    mergeB: 82f2402f3e0e038260fd9ce4aafa8056851a8c54
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Merge branch 'master' of https://github.com/robertarotaritei/First-Unity-Game
+    description: 
+    timeString: 2020-08-12T13:31:14.000+02:00
+    commitTimeString: 2020-08-12T13:31:14.000+02:00
+    changes: []
+  - commitID: da48a5dca072265932268ad3e921a42476cb2b11
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add Executable
+    description: 
+    timeString: 2020-08-12T13:28:49.000+02:00
+    commitTimeString: 2020-08-12T13:28:49.000+02:00
+    changes:
+    - path: Assets\BackgroundColor.mat
+      fullPath: D:\Github games\First Game\Assets\BackgroundColor.mat
+      projectPath: Assets\BackgroundColor.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Manager.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Manager.cs
+      projectPath: Assets\C# scripts\Manager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Menus.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Menus.meta
+      projectPath: Assets\C# scripts\Menus.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Menus\GameOverMenu.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Menus\GameOverMenu.cs
+      projectPath: Assets\C# scripts\Menus\GameOverMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Menus\GameOverMenu.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Menus\GameOverMenu.cs.meta
+      projectPath: Assets\C# scripts\Menus\GameOverMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Menus\MainMenu.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Menus\MainMenu.cs
+      projectPath: Assets\C# scripts\Menus\MainMenu.cs
+      originalPath: Assets\C# scripts\MainMenu.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Menus\MainMenu.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Menus\MainMenu.cs.meta
+      projectPath: Assets\C# scripts\Menus\MainMenu.cs.meta
+      originalPath: Assets\C# scripts\MainMenu.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Menus\PauseMenu.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Menus\PauseMenu.cs
+      projectPath: Assets\C# scripts\Menus\PauseMenu.cs
+      originalPath: Assets\C# scripts\PauseMenu.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Menus\PauseMenu.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Menus\PauseMenu.cs.meta
+      projectPath: Assets\C# scripts\Menus\PauseMenu.cs.meta
+      originalPath: Assets\C# scripts\PauseMenu.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\PlayerMovement.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\PlayerMovement.cs
+      projectPath: Assets\C# scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Score.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Score.cs
+      projectPath: Assets\C# scripts\Score.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Endless Runner\First Game.exe
+      fullPath: D:\Github games\First Game\Endless Runner\First Game.exe
+      projectPath: Endless Runner\First Game.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Assembly-CSharp.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Assembly-CSharp.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Mono.Security.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Mono.Security.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Mono.Security.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.ComponentModel.Composition.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.ComponentModel.Composition.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.ComponentModel.Composition.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Configuration.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Configuration.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Configuration.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Core.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Core.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Core.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Data.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Data.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Data.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Diagnostics.StackTrace.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Diagnostics.StackTrace.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Diagnostics.StackTrace.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Drawing.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Drawing.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Drawing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.EnterpriseServices.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.EnterpriseServices.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.EnterpriseServices.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Globalization.Extensions.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Globalization.Extensions.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Globalization.Extensions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.IO.Compression.FileSystem.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.IO.Compression.FileSystem.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.IO.Compression.FileSystem.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.IO.Compression.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.IO.Compression.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.IO.Compression.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Net.Http.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Net.Http.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Net.Http.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Numerics.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Numerics.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Numerics.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.Xml.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.Xml.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Runtime.Serialization.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.ServiceModel.Internals.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.ServiceModel.Internals.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.ServiceModel.Internals.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Transactions.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Transactions.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Transactions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Xml.Linq.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Xml.Linq.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Xml.Linq.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Xml.XPath.XDocument.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Xml.XPath.XDocument.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Xml.XPath.XDocument.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.Xml.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.Xml.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\System.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\System.dll
+      projectPath: Endless Runner\First Game_Data\Managed\System.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Unity.Analytics.StandardEvents.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Unity.Analytics.StandardEvents.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Unity.Analytics.StandardEvents.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Endless Runner\First Game_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.AIModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.AIModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.AIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ARModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ARModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ARModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.AccessibilityModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.AccessibilityModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.AccessibilityModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.AnimationModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.AnimationModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.AnimationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.AssetBundleModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.AssetBundleModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.AssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.AudioModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.AudioModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.AudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.BaselibModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.BaselibModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.BaselibModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ClothModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ClothModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ClothModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ClusterInputModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ClusterInputModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ClusterInputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.CrashReportingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.CrashReportingModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.CrashReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.DirectorModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.DirectorModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.DirectorModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.GameCenterModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.GameCenterModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.GameCenterModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.GridModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.GridModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.GridModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.HotReloadModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.HotReloadModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.HotReloadModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.IMGUIModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.IMGUIModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.IMGUIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ImageConversionModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ImageConversionModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ImageConversionModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.InputModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.InputModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.InputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.LocalizationModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.LocalizationModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.LocalizationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.Networking.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.Networking.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.Networking.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.Physics2DModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.Physics2DModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.Physics2DModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ProfilerModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ProfilerModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ProfilerModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.SpatialTracking.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.SpatialTracking.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.StreamingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.StreamingModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.StreamingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.StyleSheetsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.StyleSheetsModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.StyleSheetsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.SubstanceModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.SubstanceModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.SubstanceModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.TLSModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.TLSModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.TLSModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.TerrainModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.TerrainModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.TerrainModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.TextCoreModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.TextCoreModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.TextCoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.TextRenderingModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.TextRenderingModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.TextRenderingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.TilemapModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.TilemapModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.TilemapModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.Timeline.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.Timeline.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.Timeline.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.TimelineModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.TimelineModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.TimelineModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UI.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UI.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UIElementsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UIElementsModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UIElementsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UIModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UIModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UNETModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UNETModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UNETModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UmbraModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UmbraModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UmbraModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityConnectModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityConnectModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityConnectModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.VFXModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.VFXModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.VFXModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.VRModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.VRModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.VRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.VehiclesModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.VehiclesModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.VehiclesModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.VideoModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.VideoModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.VideoModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.WindModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.WindModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.WindModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.XRModule.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.XRModule.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.XRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\UnityEngine.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\UnityEngine.dll
+      projectPath: Endless Runner\First Game_Data\Managed\UnityEngine.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\mscorlib.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\mscorlib.dll
+      projectPath: Endless Runner\First Game_Data\Managed\mscorlib.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Managed\netstandard.dll
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Managed\netstandard.dll
+      projectPath: Endless Runner\First Game_Data\Managed\netstandard.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Resources\unity default resources
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Resources\unity
+        default resources
+      projectPath: Endless Runner\First Game_Data\Resources\unity default resources
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\Resources\unity_builtin_extra
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\Resources\unity_builtin_extra
+      projectPath: Endless Runner\First Game_Data\Resources\unity_builtin_extra
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\app.info
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\app.info
+      projectPath: Endless Runner\First Game_Data\app.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\boot.config
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\boot.config
+      projectPath: Endless Runner\First Game_Data\boot.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\globalgamemanagers
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\globalgamemanagers
+      projectPath: Endless Runner\First Game_Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\globalgamemanagers.assets
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\globalgamemanagers.assets
+      projectPath: Endless Runner\First Game_Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\level0
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\level0
+      projectPath: Endless Runner\First Game_Data\level0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\level0.resS
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\level0.resS
+      projectPath: Endless Runner\First Game_Data\level0.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\level1
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\level1
+      projectPath: Endless Runner\First Game_Data\level1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\level1.resS
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\level1.resS
+      projectPath: Endless Runner\First Game_Data\level1.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\resources.assets
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\resources.assets
+      projectPath: Endless Runner\First Game_Data\resources.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\resources.assets.resS
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\resources.assets.resS
+      projectPath: Endless Runner\First Game_Data\resources.assets.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\sharedassets0.assets
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\sharedassets0.assets
+      projectPath: Endless Runner\First Game_Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\sharedassets0.assets.resS
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\sharedassets0.assets.resS
+      projectPath: Endless Runner\First Game_Data\sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\First Game_Data\sharedassets1.assets
+      fullPath: D:\Github games\First Game\Endless Runner\First Game_Data\sharedassets1.assets
+      projectPath: Endless Runner\First Game_Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      projectPath: Endless Runner\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      projectPath: Endless Runner\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\2.0\machine.config
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\2.0\machine.config
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\2.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\2.0\settings.map
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\2.0\settings.map
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\2.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\2.0\web.config
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\2.0\web.config
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\2.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.0\machine.config
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.0\machine.config
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.0\settings.map
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.0\settings.map
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.0\web.config
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.0\web.config
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.5\machine.config
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.5\machine.config
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.5\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.5\settings.map
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.5\settings.map
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.5\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\4.5\web.config
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\4.5\web.config
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\4.5\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\browscap.ini
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\browscap.ini
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\browscap.ini
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\config
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\config
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      fullPath: D:\Github games\First Game\Endless Runner\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      projectPath: Endless Runner\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\UnityCrashHandler64.exe
+      fullPath: D:\Github games\First Game\Endless Runner\UnityCrashHandler64.exe
+      projectPath: Endless Runner\UnityCrashHandler64.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\UnityPlayer.dll
+      fullPath: D:\Github games\First Game\Endless Runner\UnityPlayer.dll
+      projectPath: Endless Runner\UnityPlayer.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Endless Runner\WinPixEventRuntime.dll
+      fullPath: D:\Github games\First Game\Endless Runner\WinPixEventRuntime.dll
+      projectPath: Endless Runner\WinPixEventRuntime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 82f2402f3e0e038260fd9ce4aafa8056851a8c54
+    mergeA: 
+    mergeB: 
+    authorName: Robert Arotaritei
+    authorEmail: 35419169+robertarotaritei@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: 
+    timeString: 2020-08-12T13:11:18.000+02:00
+    commitTimeString: 2020-08-12T13:11:18.000+02:00
+    changes:
+    - path: README.md
+      fullPath: D:\Github games\First Game\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 4804cab78c50e4ad7ce7586f3af117908dbf98b5
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add Ground Color Change
+    description: 
+    timeString: 2020-05-05T10:24:58.000+02:00
+    commitTimeString: 2020-05-05T10:24:58.000+02:00
+    changes:
+    - path: Assets\BackgroundColor.mat
+      fullPath: D:\Github games\First Game\Assets\BackgroundColor.mat
+      projectPath: Assets\BackgroundColor.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\BasicSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\BasicSpawner.cs
+      projectPath: Assets\C# scripts\Enemies\BasicSpawner.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\EnemySpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\EnemySpawner.cs
+      projectPath: Assets\C# scripts\Enemies\EnemySpawner.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\FastSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\FastSpawner.cs
+      projectPath: Assets\C# scripts\Enemies\FastSpawner.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\LongSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\LongSpawner.cs
+      projectPath: Assets\C# scripts\Enemies\LongSpawner.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Spawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Spawner.cs
+      projectPath: Assets\C# scripts\Enemies\Spawner.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Manager.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Manager.cs
+      projectPath: Assets\C# scripts\Manager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\PlayerMovement.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\PlayerMovement.cs
+      projectPath: Assets\C# scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Score.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Score.cs
+      projectPath: Assets\C# scripts\Score.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\LongBlock.prefab
+      fullPath: D:\Github games\First Game\Assets\LongBlock.prefab
+      projectPath: Assets\LongBlock.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ed1bc84a324735e51a9b30fcf53fb4dc5ff8b5f4
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add New Enemy Type
+    description: 
+    timeString: 2020-04-29T10:37:17.000+02:00
+    commitTimeString: 2020-04-29T10:37:17.000+02:00
+    changes:
+    - path: Assets\Animations\FadeToWhite.anim
+      fullPath: D:\Github games\First Game\Assets\Animations\FadeToWhite.anim
+      projectPath: Assets\Animations\FadeToWhite.anim
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\PauseMenu.anim
+      fullPath: D:\Github games\First Game\Assets\Animations\PauseMenu.anim
+      projectPath: Assets\Animations\PauseMenu.anim
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\PauseMenu.controller
+      fullPath: D:\Github games\First Game\Assets\Animations\PauseMenu.controller
+      projectPath: Assets\Animations\PauseMenu.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\BackgroundColor.mat
+      fullPath: D:\Github games\First Game\Assets\BackgroundColor.mat
+      projectPath: Assets\BackgroundColor.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\BackgroundColor.mat.meta
+      fullPath: D:\Github games\First Game\Assets\BackgroundColor.mat.meta
+      projectPath: Assets\BackgroundColor.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\BasicBlock.mat
+      fullPath: D:\Github games\First Game\Assets\BasicBlock.mat
+      projectPath: Assets\BasicBlock.mat
+      originalPath: Assets\Block.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\BasicBlock.mat.meta
+      fullPath: D:\Github games\First Game\Assets\BasicBlock.mat.meta
+      projectPath: Assets\BasicBlock.mat.meta
+      originalPath: Assets\Block.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\BasicBlock.prefab
+      fullPath: D:\Github games\First Game\Assets\BasicBlock.prefab
+      projectPath: Assets\BasicBlock.prefab
+      originalPath: Assets\Block.prefab
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\BasicBlock.prefab.meta
+      fullPath: D:\Github games\First Game\Assets\BasicBlock.prefab.meta
+      projectPath: Assets\BasicBlock.prefab.meta
+      originalPath: Assets\Block.prefab.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\LongBlock.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\LongBlock.cs
+      projectPath: Assets\C# scripts\Enemies\Blocks\LongBlock.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\LongBlock.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\LongBlock.cs.meta
+      projectPath: Assets\C# scripts\Enemies\Blocks\LongBlock.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\EnemySpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\EnemySpawner.cs
+      projectPath: Assets\C# scripts\Enemies\EnemySpawner.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\FastSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\FastSpawner.cs
+      projectPath: Assets\C# scripts\Enemies\FastSpawner.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\LongSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\LongSpawner.cs
+      projectPath: Assets\C# scripts\Enemies\LongSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\LongSpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\LongSpawner.cs.meta
+      projectPath: Assets\C# scripts\Enemies\LongSpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\PauseMenu.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\PauseMenu.cs
+      projectPath: Assets\C# scripts\PauseMenu.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Score.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Score.cs
+      projectPath: Assets\C# scripts\Score.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\LongBlock.mat
+      fullPath: D:\Github games\First Game\Assets\LongBlock.mat
+      projectPath: Assets\LongBlock.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LongBlock.mat.meta
+      fullPath: D:\Github games\First Game\Assets\LongBlock.mat.meta
+      projectPath: Assets\LongBlock.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LongBlock.prefab
+      fullPath: D:\Github games\First Game\Assets\LongBlock.prefab
+      projectPath: Assets\LongBlock.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LongBlock.prefab.meta
+      fullPath: D:\Github games\First Game\Assets\LongBlock.prefab.meta
+      projectPath: Assets\LongBlock.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Player.prefab
+      fullPath: D:\Github games\First Game\Assets\Player.prefab
+      projectPath: Assets\Player.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Player.prefab.meta
+      fullPath: D:\Github games\First Game\Assets\Player.prefab.meta
+      projectPath: Assets\Player.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerMat.mat
+      fullPath: D:\Github games\First Game\Assets\PlayerMat.mat
+      projectPath: Assets\PlayerMat.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: c155244c56e043739853ab0dd00e3fad0e7154bd
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add PauseMenu and Animations
+    description: 
+    timeString: 2020-04-18T17:18:14.000+02:00
+    commitTimeString: 2020-04-18T17:18:14.000+02:00
+    changes:
+    - path: Assets\Animations.meta
+      fullPath: D:\Github games\First Game\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Block.controller
+      fullPath: D:\Github games\First Game\Assets\Animations\Block.controller
+      projectPath: Assets\Animations\Block.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Block.controller.meta
+      fullPath: D:\Github games\First Game\Assets\Animations\Block.controller.meta
+      projectPath: Assets\Animations\Block.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\FadeToWhite.anim
+      fullPath: D:\Github games\First Game\Assets\Animations\FadeToWhite.anim
+      projectPath: Assets\Animations\FadeToWhite.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\FadeToWhite.anim.meta
+      fullPath: D:\Github games\First Game\Assets\Animations\FadeToWhite.anim.meta
+      projectPath: Assets\Animations\FadeToWhite.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PauseMenu.anim
+      fullPath: D:\Github games\First Game\Assets\Animations\PauseMenu.anim
+      projectPath: Assets\Animations\PauseMenu.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PauseMenu.anim.meta
+      fullPath: D:\Github games\First Game\Assets\Animations\PauseMenu.anim.meta
+      projectPath: Assets\Animations\PauseMenu.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PauseMenu.controller
+      fullPath: D:\Github games\First Game\Assets\Animations\PauseMenu.controller
+      projectPath: Assets\Animations\PauseMenu.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\PauseMenu.controller.meta
+      fullPath: D:\Github games\First Game\Assets\Animations\PauseMenu.controller.meta
+      projectPath: Assets\Animations\PauseMenu.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Block.prefab
+      fullPath: D:\Github games\First Game\Assets\Block.prefab
+      projectPath: Assets\Block.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\BasicBlock.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\BasicBlock.cs
+      projectPath: Assets\C# scripts\Enemies\Blocks\BasicBlock.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\Block.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\Block.cs
+      projectPath: Assets\C# scripts\Enemies\Blocks\Block.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\FastBlock.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\FastBlock.cs
+      projectPath: Assets\C# scripts\Enemies\Blocks\FastBlock.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\PauseMenu.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\PauseMenu.cs
+      projectPath: Assets\C# scripts\PauseMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\PauseMenu.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\PauseMenu.cs.meta
+      projectPath: Assets\C# scripts\PauseMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Score.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Score.cs
+      projectPath: Assets\C# scripts\Score.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\FastBlock.prefab
+      fullPath: D:\Github games\First Game\Assets\FastBlock.prefab
+      projectPath: Assets\FastBlock.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: c3613e7e81fa4bbff874725a0d3322a470bfd835
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add New Enemy Type
+    description: 
+    timeString: 2020-04-17T20:11:14.000+02:00
+    commitTimeString: 2020-04-17T20:11:14.000+02:00
+    changes:
+    - path: Assets\Block.mat
+      fullPath: D:\Github games\First Game\Assets\Block.mat
+      projectPath: Assets\Block.mat
+      originalPath: Assets\ObstacleMap.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Block.mat.meta
+      fullPath: D:\Github games\First Game\Assets\Block.mat.meta
+      projectPath: Assets\Block.mat.meta
+      originalPath: Assets\ObstacleMap.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Block.prefab
+      fullPath: D:\Github games\First Game\Assets\Block.prefab
+      projectPath: Assets\Block.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\BasicSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\BasicSpawner.cs
+      projectPath: Assets\C# scripts\BasicSpawner.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies.meta
+      projectPath: Assets\C# scripts\Enemies.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\BasicSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\BasicSpawner.cs
+      projectPath: Assets\C# scripts\Enemies\BasicSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\BasicSpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\BasicSpawner.cs.meta
+      projectPath: Assets\C# scripts\Enemies\BasicSpawner.cs.meta
+      originalPath: Assets\C# scripts\BasicSpawner.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks.meta
+      projectPath: Assets\C# scripts\Enemies\Blocks.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\BasicBlock.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\BasicBlock.cs
+      projectPath: Assets\C# scripts\Enemies\Blocks\BasicBlock.cs
+      originalPath: Assets\C# scripts\Block.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\BasicBlock.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\BasicBlock.cs.meta
+      projectPath: Assets\C# scripts\Enemies\Blocks\BasicBlock.cs.meta
+      originalPath: Assets\C# scripts\TunnelSpawner.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\Block.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\Block.cs
+      projectPath: Assets\C# scripts\Enemies\Blocks\Block.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\Block.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\Block.cs.meta
+      projectPath: Assets\C# scripts\Enemies\Blocks\Block.cs.meta
+      originalPath: Assets\C# scripts\Block.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\FastBlock.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\FastBlock.cs
+      projectPath: Assets\C# scripts\Enemies\Blocks\FastBlock.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Blocks\FastBlock.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Blocks\FastBlock.cs.meta
+      projectPath: Assets\C# scripts\Enemies\Blocks\FastBlock.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\EnemySpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\EnemySpawner.cs
+      projectPath: Assets\C# scripts\Enemies\EnemySpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\EnemySpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\EnemySpawner.cs.meta
+      projectPath: Assets\C# scripts\Enemies\EnemySpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\FastSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\FastSpawner.cs
+      projectPath: Assets\C# scripts\Enemies\FastSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\FastSpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\FastSpawner.cs.meta
+      projectPath: Assets\C# scripts\Enemies\FastSpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Spawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Spawner.cs
+      projectPath: Assets\C# scripts\Enemies\Spawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Enemies\Spawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Enemies\Spawner.cs.meta
+      projectPath: Assets\C# scripts\Enemies\Spawner.cs.meta
+      originalPath: Assets\C# scripts\Spawner.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\MainMenu.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\MainMenu.cs
+      projectPath: Assets\C# scripts\MainMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\MainMenu.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\MainMenu.cs.meta
+      projectPath: Assets\C# scripts\MainMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Manager.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Manager.cs
+      projectPath: Assets\C# scripts\Manager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Spawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Spawner.cs
+      projectPath: Assets\C# scripts\Spawner.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\C# scripts\TunnelSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\TunnelSpawner.cs
+      projectPath: Assets\C# scripts\TunnelSpawner.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\FastBlock.mat
+      fullPath: D:\Github games\First Game\Assets\FastBlock.mat
+      projectPath: Assets\FastBlock.mat
+      originalPath: Assets\TunnelMaterial.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\FastBlock.mat.meta
+      fullPath: D:\Github games\First Game\Assets\FastBlock.mat.meta
+      projectPath: Assets\FastBlock.mat.meta
+      originalPath: Assets\TunnelMaterial.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\FastBlock.prefab
+      fullPath: D:\Github games\First Game\Assets\FastBlock.prefab
+      projectPath: Assets\FastBlock.prefab
+      originalPath: Assets\BlockTunnel Variant.prefab
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\FastBlock.prefab.meta
+      fullPath: D:\Github games\First Game\Assets\FastBlock.prefab.meta
+      projectPath: Assets\FastBlock.prefab.meta
+      originalPath: Assets\BlockTunnel Variant.prefab.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: b3138a6d5310240d9cf0789a11309eda2127767d
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add MainMenu FrontEnd
+    description: 
+    timeString: 2020-04-17T11:55:36.000+02:00
+    commitTimeString: 2020-04-17T11:55:36.000+02:00
+    changes:
+    - path: Assets\Block.prefab
+      fullPath: D:\Github games\First Game\Assets\Block.prefab
+      projectPath: Assets\Block.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\BlockTunnel Variant.prefab
+      fullPath: D:\Github games\First Game\Assets\BlockTunnel Variant.prefab
+      projectPath: Assets\BlockTunnel Variant.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\BlockTunnel Variant.prefab.meta
+      fullPath: D:\Github games\First Game\Assets\BlockTunnel Variant.prefab.meta
+      projectPath: Assets\BlockTunnel Variant.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts.meta
+      projectPath: Assets\C# scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\BasicSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\BasicSpawner.cs
+      projectPath: Assets\C# scripts\BasicSpawner.cs
+      originalPath: Assets\BasicSpawner.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\BasicSpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\BasicSpawner.cs.meta
+      projectPath: Assets\C# scripts\BasicSpawner.cs.meta
+      originalPath: Assets\BasicSpawner.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Block.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Block.cs
+      projectPath: Assets\C# scripts\Block.cs
+      originalPath: Assets\Block.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Block.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Block.cs.meta
+      projectPath: Assets\C# scripts\Block.cs.meta
+      originalPath: Assets\Block.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Manager.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Manager.cs
+      projectPath: Assets\C# scripts\Manager.cs
+      originalPath: Assets\Manager.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Manager.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Manager.cs.meta
+      projectPath: Assets\C# scripts\Manager.cs.meta
+      originalPath: Assets\Manager.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\PlayerMovement.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\PlayerMovement.cs
+      projectPath: Assets\C# scripts\PlayerMovement.cs
+      originalPath: Assets\PlayerMovement.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\PlayerMovement.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\PlayerMovement.cs.meta
+      projectPath: Assets\C# scripts\PlayerMovement.cs.meta
+      originalPath: Assets\PlayerMovement.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Score.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Score.cs
+      projectPath: Assets\C# scripts\Score.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Score.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Score.cs.meta
+      projectPath: Assets\C# scripts\Score.cs.meta
+      originalPath: Assets\GameManager.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Spawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Spawner.cs
+      projectPath: Assets\C# scripts\Spawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\Spawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\Spawner.cs.meta
+      projectPath: Assets\C# scripts\Spawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\TunnelSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\C# scripts\TunnelSpawner.cs
+      projectPath: Assets\C# scripts\TunnelSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\C# scripts\TunnelSpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\C# scripts\TunnelSpawner.cs.meta
+      projectPath: Assets\C# scripts\TunnelSpawner.cs.meta
+      originalPath: Assets\TunnelSpawner.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\GameManager.cs
+      fullPath: D:\Github games\First Game\Assets\GameManager.cs
+      projectPath: Assets\GameManager.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: Assets\Scenes\SampleScene.unity
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity.meta
+      fullPath: D:\Github games\First Game\Assets\Scenes\Game.unity.meta
+      projectPath: Assets\Scenes\Game.unity.meta
+      originalPath: Assets\Scenes\SampleScene.unity.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity.meta
+      fullPath: D:\Github games\First Game\Assets\Scenes\MainMenu.unity.meta
+      projectPath: Assets\Scenes\MainMenu.unity.meta
+      originalPath: Assets\level01.unity.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TunnelMaterial.mat
+      fullPath: D:\Github games\First Game\Assets\TunnelMaterial.mat
+      projectPath: Assets\TunnelMaterial.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TunnelMaterial.mat.meta
+      fullPath: D:\Github games\First Game\Assets\TunnelMaterial.mat.meta
+      projectPath: Assets\TunnelMaterial.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TunnelSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\TunnelSpawner.cs
+      projectPath: Assets\TunnelSpawner.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Untitled-3.gif
+      fullPath: D:\Github games\First Game\Assets\Untitled-3.gif
+      projectPath: Assets\Untitled-3.gif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Untitled-3.gif.meta
+      fullPath: D:\Github games\First Game\Assets\Untitled-3.gif.meta
+      projectPath: Assets\Untitled-3.gif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\level01.unity
+      fullPath: D:\Github games\First Game\Assets\level01.unity
+      projectPath: Assets\level01.unity
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\.signature.p7s
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\.signature.p7s
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\.signature.p7s
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\LICENSE.TXT
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\LICENSE.TXT
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\LICENSE.TXT
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\System.Runtime.CompilerServices.Unsafe.4.5.2.nupkg
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\System.Runtime.CompilerServices.Unsafe.4.5.2.nupkg
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\System.Runtime.CompilerServices.Unsafe.4.5.2.nupkg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\THIRD-PARTY-NOTICES.TXT
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\THIRD-PARTY-NOTICES.TXT
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\THIRD-PARTY-NOTICES.TXT
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.xml
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.xml
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\useSharedDesignerContext.txt
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\useSharedDesignerContext.txt
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\useSharedDesignerContext.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\version.txt
+      fullPath: D:\Github games\First Game\Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\version.txt
+      projectPath: Packages\System.Runtime.CompilerServices.Unsafe.4.5.2\version.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\.signature.p7s
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\.signature.p7s
+      projectPath: Packages\Unity.5.11.5\.signature.p7s
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\Unity.5.11.5.nupkg
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\Unity.5.11.5.nupkg
+      projectPath: Packages\Unity.5.11.5\Unity.5.11.5.nupkg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net40\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net40\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\net40\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net40\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net40\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\net40\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net45\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net45\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\net45\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net45\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net45\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\net45\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net46\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net46\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\net46\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net46\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net46\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\net46\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net47\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net47\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\net47\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\net47\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\net47\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\net47\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netcoreapp1.0\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netcoreapp1.0\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\netcoreapp1.0\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netcoreapp1.0\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netcoreapp1.0\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\netcoreapp1.0\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netcoreapp2.0\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netcoreapp2.0\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\netcoreapp2.0\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netcoreapp2.0\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netcoreapp2.0\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\netcoreapp2.0\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netstandard1.0\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netstandard1.0\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\netstandard1.0\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netstandard1.0\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netstandard1.0\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\netstandard1.0\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netstandard2.0\Unity.Abstractions.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netstandard2.0\Unity.Abstractions.dll
+      projectPath: Packages\Unity.5.11.5\lib\netstandard2.0\Unity.Abstractions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\Unity.5.11.5\lib\netstandard2.0\Unity.Container.dll
+      fullPath: D:\Github games\First Game\Packages\Unity.5.11.5\lib\netstandard2.0\Unity.Container.dll
+      projectPath: Packages\Unity.5.11.5\lib\netstandard2.0\Unity.Container.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: packages.config
+      fullPath: D:\Github games\First Game\packages.config
+      projectPath: packages.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: aa611a137f793aab440e4811dde127d560cf79e8
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add Enemy Spawn
+    description: 
+    timeString: 2020-04-16T09:36:36.000+02:00
+    commitTimeString: 2020-04-16T09:36:36.000+02:00
+    changes:
+    - path: Assets\BasicSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\BasicSpawner.cs
+      projectPath: Assets\BasicSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\BasicSpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\BasicSpawner.cs.meta
+      projectPath: Assets\BasicSpawner.cs.meta
+      originalPath: Assets\PlayerCollision.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Block.cs
+      fullPath: D:\Github games\First Game\Assets\Block.cs
+      projectPath: Assets\Block.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Block.cs.meta
+      fullPath: D:\Github games\First Game\Assets\Block.cs.meta
+      projectPath: Assets\Block.cs.meta
+      originalPath: Assets\FollowPlayer.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Block.prefab
+      fullPath: D:\Github games\First Game\Assets\Block.prefab
+      projectPath: Assets\Block.prefab
+      originalPath: Assets\Obstacle.prefab
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Block.prefab.meta
+      fullPath: D:\Github games\First Game\Assets\Block.prefab.meta
+      projectPath: Assets\Block.prefab.meta
+      originalPath: Assets\Obstacle.prefab.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\FollowPlayer.cs
+      fullPath: D:\Github games\First Game\Assets\FollowPlayer.cs
+      projectPath: Assets\FollowPlayer.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\GameManager.cs
+      fullPath: D:\Github games\First Game\Assets\GameManager.cs
+      projectPath: Assets\GameManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\GameManager.cs.meta
+      fullPath: D:\Github games\First Game\Assets\GameManager.cs.meta
+      projectPath: Assets\GameManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Manager.cs
+      fullPath: D:\Github games\First Game\Assets\Manager.cs
+      projectPath: Assets\Manager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Manager.cs.meta
+      fullPath: D:\Github games\First Game\Assets\Manager.cs.meta
+      projectPath: Assets\Manager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ObstacleMap.mat
+      fullPath: D:\Github games\First Game\Assets\ObstacleMap.mat
+      projectPath: Assets\ObstacleMap.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\PlayerCollision.cs
+      fullPath: D:\Github games\First Game\Assets\PlayerCollision.cs
+      projectPath: Assets\PlayerCollision.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\PlayerMovement.cs
+      fullPath: D:\Github games\First Game\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro.meta
+      projectPath: Assets\TextMesh Pro.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Documentation.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Documentation.meta
+      projectPath: Assets\TextMesh Pro\Documentation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Documentation\TextMesh
+        Pro User Guide 2016.pdf
+      projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Documentation\TextMesh
+        Pro User Guide 2016.pdf.meta
+      projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Fonts.meta
+      projectPath: Assets\TextMesh Pro\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Fonts\LiberationSans
+        - OFL.txt
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Fonts\LiberationSans
+        - OFL.txt.meta
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources.meta
+      projectPath: Assets\TextMesh Pro\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+        Shadow.mat
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+        Shadow.mat.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\LineBreaking
+        Following Characters.txt
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\LineBreaking
+        Following Characters.txt.meta
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\LineBreaking
+        Leading Characters.txt
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\LineBreaking
+        Leading Characters.txt.meta
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF
+        Overlay.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF
+        Overlay.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Masking.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Masking.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Overlay.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Overlay.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Sprite Assets.meta
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Style Sheets.meta
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Style Sheets\Default
+        Style Sheet.asset
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\Style Sheets\Default
+        Style Sheet.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\TMP Settings.asset
+      projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Sprites.meta
+      projectPath: Assets\TextMesh Pro\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Sprites\EmojiOne.json
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Sprites\EmojiOne.png
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      fullPath: D:\Github games\First Game\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TunnelSpawner.cs
+      fullPath: D:\Github games\First Game\Assets\TunnelSpawner.cs
+      projectPath: Assets\TunnelSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TunnelSpawner.cs.meta
+      fullPath: D:\Github games\First Game\Assets\TunnelSpawner.cs.meta
+      projectPath: Assets\TunnelSpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d52b3c3e978862150a5105b7d5ff879f235b26e0
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add Collision And Update Perspective
+    description: 
+    timeString: 2020-04-13T18:23:59.000+02:00
+    commitTimeString: 2020-04-13T18:23:59.000+02:00
+    changes:
+    - path: Assets\Obstacle.prefab
+      fullPath: D:\Github games\First Game\Assets\Obstacle.prefab
+      projectPath: Assets\Obstacle.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Obstacle.prefab.meta
+      fullPath: D:\Github games\First Game\Assets\Obstacle.prefab.meta
+      projectPath: Assets\Obstacle.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ObstacleMap.mat
+      fullPath: D:\Github games\First Game\Assets\ObstacleMap.mat
+      projectPath: Assets\ObstacleMap.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ObstacleMap.mat.meta
+      fullPath: D:\Github games\First Game\Assets\ObstacleMap.mat.meta
+      projectPath: Assets\ObstacleMap.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerCollision.cs
+      fullPath: D:\Github games\First Game\Assets\PlayerCollision.cs
+      projectPath: Assets\PlayerCollision.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\PlayerMat.mat
+      fullPath: D:\Github games\First Game\Assets\PlayerMat.mat
+      projectPath: Assets\PlayerMat.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\PlayerMovement.cs
+      fullPath: D:\Github games\First Game\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0dc080e96b325aa551178af531abe7ee429f0b8c
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u021Bei Robert, R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u021Bei Robert, R"
+    summary: Add Player Movement
+    description: 
+    timeString: 2020-04-13T14:26:47.000+02:00
+    commitTimeString: 2020-04-13T14:26:47.000+02:00
+    changes:
+    - path: Assets\FollowPlayer.cs
+      fullPath: D:\Github games\First Game\Assets\FollowPlayer.cs
+      projectPath: Assets\FollowPlayer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\FollowPlayer.cs.meta
+      fullPath: D:\Github games\First Game\Assets\FollowPlayer.cs.meta
+      projectPath: Assets\FollowPlayer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerCollision.cs
+      fullPath: D:\Github games\First Game\Assets\PlayerCollision.cs
+      projectPath: Assets\PlayerCollision.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerCollision.cs.meta
+      fullPath: D:\Github games\First Game\Assets\PlayerCollision.cs.meta
+      projectPath: Assets\PlayerCollision.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerMovement.cs
+      fullPath: D:\Github games\First Game\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerMovement.cs.meta
+      fullPath: D:\Github games\First Game\Assets\PlayerMovement.cs.meta
+      projectPath: Assets\PlayerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Slippery.physicMaterial
+      fullPath: D:\Github games\First Game\Assets\Slippery.physicMaterial
+      projectPath: Assets\Slippery.physicMaterial
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Slippery.physicMaterial.meta
+      fullPath: D:\Github games\First Game\Assets\Slippery.physicMaterial.meta
+      projectPath: Assets\Slippery.physicMaterial.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\level01.unity
+      fullPath: D:\Github games\First Game\Assets\level01.unity
+      projectPath: Assets\level01.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\level01.unity.meta
+      fullPath: D:\Github games\First Game\Assets\level01.unity.meta
+      projectPath: Assets\level01.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Github games\First Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: fe1c2fb452030e09115c546710c778c7a84c646e
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u0163ei,Robert R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u0163ei,Robert R"
+    summary: Add player and ground
+    description: 
+    timeString: 2020-04-12T11:25:25.000+02:00
+    commitTimeString: 2020-04-12T11:25:25.000+02:00
+    changes:
+    - path: Assets\PlayerMat.mat
+      fullPath: D:\Github games\First Game\Assets\PlayerMat.mat
+      projectPath: Assets\PlayerMat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerMat.mat.meta
+      fullPath: D:\Github games\First Game\Assets\PlayerMat.mat.meta
+      projectPath: Assets\PlayerMat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Github games\First Game\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Github games\First Game\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Github games\First Game\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\Github games\First Game\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Github games\First Game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Github games\First Game\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\Github games\First Game\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 526761739a5471607abdf618439f0833562d6b17
+    mergeA: 
+    mergeB: 
+    authorName: "Arot\u0103ri\u0163ei,Robert R"
+    authorEmail: r.arotaritei@student.fontys.nl
+    commitEmail: r.arotaritei@student.fontys.nl
+    commitName: "Arot\u0103ri\u0163ei,Robert R"
+    summary: Initial commit
+    description: 
+    timeString: 2020-04-12T10:48:47.000+02:00
+    commitTimeString: 2020-04-12T10:48:47.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Github games\First Game\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\Github games\First Game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\Github games\First Game\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
