@@ -1,16 +1,21 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
     public Transform[] spawnPoints;
+
     public GameObject basicBlock;
+
     public GameObject fastBlock;
+
     public GameObject longBlock;
+
     public float timeToChange = 15f;
+
     private float timeToSpawn = 15f;
+
     private int randomEnemy = 0;
+
     private Spawner enemy;
 
     void Start()

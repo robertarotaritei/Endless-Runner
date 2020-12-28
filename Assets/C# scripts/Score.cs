@@ -5,29 +5,30 @@ using TMPro;
 public class Score : MonoBehaviour
 {
     public float score = 0;
+
     public Text scoreText;
+    
     public Text pauseScoreText;
+    
     public Text highScoreText;
+    
     public TextMeshProUGUI finalHighScoreText;
+    
     public TextMeshProUGUI finalScoreText;
+    
     public Material groundColor;
+    
     public GameObject ground;
+    
     private Color[] colors;
+    
     private int colorNumber = -1;
+    
     private bool changeColorOnce = true;
 
     void Start()
     {
-        Color gray, blue, green, yellow, orange, red, black;
-
-        gray = new Color(219 / 255f, 219 / 255f, 219 / 255f);
-        blue = new Color(52 / 255f, 124 / 255f, 255 / 255f);
-        green = new Color(52 / 255f, 255 / 255f, 66 / 255f);
-        yellow = new Color(252 / 255f, 255 / 255f, 52 / 255f);
-        orange = new Color(255 / 255f, 144 / 255f, 52 / 255f);
-        red = new Color(205 / 255f, 12 / 255f, 0);
-        black = new Color(0, 0, 0);
-        colors = new Color[] { gray, blue, green, yellow, orange, red, black };
+        InstantiateColors();
         scoreText.text = score.ToString();
         pauseScoreText.text = "Current score \n" + score.ToString();
         highScoreText.text = "High score \n" + PlayerPrefs.GetInt("HighScore", 0).ToString();
@@ -40,6 +41,7 @@ public class Score : MonoBehaviour
         highScoreText.text = "High score \n" + PlayerPrefs.GetInt("HighScore", 0).ToString();
         finalScoreText.text = "Final Score \n" + score.ToString();
         finalHighScoreText.text = "High score \n" + PlayerPrefs.GetInt("HighScore", 0).ToString();
+        
         if (score > PlayerPrefs.GetInt("HighScore", 0))
         {
             PlayerPrefs.SetInt("HighScore", (int)score); 
@@ -73,6 +75,7 @@ public class Score : MonoBehaviour
             t += Time.deltaTime;
         }
     }
+
     IEnumerator GroundColorShifter(int colorNumber, Material groundColor)
     {
         var color = colors[colorNumber];
@@ -85,5 +88,20 @@ public class Score : MonoBehaviour
             yield return null;
             t += Time.deltaTime;
         }
+    }
+
+    private void InstantiateColors()
+    {
+        Color gray, blue, green, yellow, orange, red, black;
+
+        gray = new Color(219 / 255f, 219 / 255f, 219 / 255f);
+        blue = new Color(52 / 255f, 124 / 255f, 255 / 255f);
+        green = new Color(52 / 255f, 255 / 255f, 66 / 255f);
+        yellow = new Color(252 / 255f, 255 / 255f, 52 / 255f);
+        orange = new Color(255 / 255f, 144 / 255f, 52 / 255f);
+        red = new Color(205 / 255f, 12 / 255f, 0);
+        black = new Color(0, 0, 0);
+
+        colors = new Color[] { gray, blue, green, yellow, orange, red, black };
     }
 }

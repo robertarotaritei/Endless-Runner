@@ -1,20 +1,22 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 20f;
+
     public float mapWidth = 9f;
+
     public GameObject restartUI;
+
     private Rigidbody rb;
-    // Start is called before the first frame update
+
+    private bool dieOnce = false;
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         var sidewaysForce = Input.GetAxis("Horizontal") * Time.fixedDeltaTime * speed;
@@ -27,6 +29,12 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnCollisionEnter()
     {
+        if(!dieOnce)
+        {
+            AudioManager.instance.Play("PlayerDeath");
+            dieOnce = true;
+        }
+
         FindObjectOfType<Manager>().EndGame();
     }
 }

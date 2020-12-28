@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class FastSpawner : Spawner
 {
@@ -11,6 +9,7 @@ public class FastSpawner : Spawner
         base.spawnPoints = spawnPoints;
         Start();
     }
+
     public override void Start()
     {
         randomSpawn = Random.Range(0, spawnPoints.Length);
@@ -27,22 +26,16 @@ public class FastSpawner : Spawner
             timeToSpwan = Time.timeSinceLevelLoad + timeBetweenWaves;
         }
     }
+
     void ChooseNewSpawnPoint()
     {
-        int left = randomSpawn - 1;
-        int right = randomSpawn + 1;
+        var left = randomSpawn - 1;
+        var right = randomSpawn + 1;
         if (left < 0)
         {
             left++;
             randomSpawn = Random.Range(0, 3);
-            if (randomSpawn == 0)
-            {
-                randomSpawn = left;
-            }
-            else
-            {
-                randomSpawn = right;
-            }
+            randomSpawn = randomSpawn == 0 ? left : right;
         }
         else
         {
@@ -50,37 +43,16 @@ public class FastSpawner : Spawner
             {
                 right--;
                 randomSpawn = Random.Range(0, 3);
-                if (randomSpawn == 0)
-                {
-                    randomSpawn = right;
-                }
-                else
-                {
-                    randomSpawn = left;
-                }
+                randomSpawn = randomSpawn == 0 ? right : left;
             }
             else
             {
                 randomSpawn = Random.Range(0, 5);
-
-                if (randomSpawn < 2)
-                {
-                    randomSpawn = left;
-                }
-                else
-                {
-                    if (randomSpawn == 2)
-                    {
-                        randomSpawn = left + 1;
-                    }
-                    else
-                    {
-                        randomSpawn = right;
-                    }
-                }
+                randomSpawn = randomSpawn < 2 ? left : randomSpawn == 2 ? left + 1 : right;
             }
         }
     }
+
     void SpawnBlocks(GameObject block)
     {
         for (int i = 0; i < spawnPoints.Length; i++)

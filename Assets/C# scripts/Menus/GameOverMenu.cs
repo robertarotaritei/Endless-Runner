@@ -1,13 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Analytics;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameOverMenu : MonoBehaviour
 {
     public GameObject gameOverMenuUI;
+
     public GameObject score;
+
     public GameObject pauseButton;
 
     public bool gameIsOver = false;
@@ -22,6 +21,7 @@ public class GameOverMenu : MonoBehaviour
             Time.timeScale = 0f;
         }
     }
+
     public void Restart()
     {
         gameIsOver = false;
@@ -32,6 +32,7 @@ public class GameOverMenu : MonoBehaviour
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+
     public void LoadMenu()
     {
         gameIsOver = false;

@@ -1,16 +1,16 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class LongSpawner : Spawner
 {
     private int randomSpawn;
+
     public LongSpawner(GameObject block, Transform[] spawnPoints)
     {
         base.block = block;
         base.spawnPoints = spawnPoints;
         Start();
     }
+
     public override void Start()
     {
         randomSpawn = Random.Range(0, spawnPoints.Length);
@@ -27,6 +27,7 @@ public class LongSpawner : Spawner
             timeToSpwan = Time.timeSinceLevelLoad + timeBetweenWaves;
         }
     }
+
     int ChooseNewSpawnPoint()
     {
         if (Random.Range(0, 2) == 0)
@@ -52,6 +53,7 @@ public class LongSpawner : Spawner
             }
         }
     }
+
     void SpawnBlocks(GameObject block)
     {
         for (int i = 0; i < spawnPoints.Length; i++)

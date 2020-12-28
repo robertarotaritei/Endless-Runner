@@ -1,11 +1,10 @@
 ﻿using System.Collections;
 using UnityEngine;
-using UnityEngine.Analytics;
-using UnityEngine.SceneManagement;
 
 public class Manager : MonoBehaviour
 {
     public float slowDownFactor = 10f;
+
     public void EndGame()
     {
         StartCoroutine(GameOver());

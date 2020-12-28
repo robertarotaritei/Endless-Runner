@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class BasicSpawner : Spawner
 {
@@ -10,11 +8,13 @@ public class BasicSpawner : Spawner
         base.spawnPoints = spawnPoints;
         Start();
     }
+
     public override void Start()
     {
         timeBetweenWaves = 1.7f;
         timeToSpwan += 0.5f;
     }
+
     public override void FixedUpdate()
     {
         if (Time.timeSinceLevelLoad >= timeToSpwan)

@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-08-22T23:49:44.552+02:00
-  initializedAtString: 2020-08-22T23:49:44.552+02:00
+  lastUpdatedAtString: 2020-12-28T13:54:11.991+01:00
+  initializedAtString: 2020-12-28T13:45:21.082+01:00
   currentGitRemote:
     name: origin
-    url: https://github.com/robertarotaritei/First-Unity-Game.git
+    url: https://github.com/robertarotaritei/Endless-Runner.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/robertarotaritei/First-Unity-Game.git
+      url: https://github.com/robertarotaritei/Endless-Runner.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/robertarotaritei/First-Unity-Game.git
+    url: https://github.com/robertarotaritei/Endless-Runner.git
   currentHead: 
