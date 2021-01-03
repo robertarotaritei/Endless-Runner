@@ -36,10 +36,8 @@ public class LongSpawner : Spawner
             {
                 return Random.Range(0, randomSpawn);
             }
-            else
-            {
-                return Random.Range(randomSpawn + 1, spawnPoints.Length);
-            }
+
+            return Random.Range(randomSpawn + 1, spawnPoints.Length);
         }
         else
         {
@@ -47,10 +45,8 @@ public class LongSpawner : Spawner
             {
                 return Random.Range(randomSpawn + 1, spawnPoints.Length);
             }
-            else
-            {
-                return  Random.Range(0, randomSpawn);
-            }
+                
+            return  Random.Range(0, randomSpawn);
         }
     }
 

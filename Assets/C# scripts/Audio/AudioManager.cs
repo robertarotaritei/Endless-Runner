@@ -9,15 +9,7 @@ public class AudioManager : MonoBehaviour
 
     void Awake()
     {
-        if (instance == null)
-            instance = this;
-        else
-        {
-            Destroy(gameObject);
-            return;
-        }
-
-        DontDestroyOnLoad(gameObject);
+        Singleton();
 
         var value = PlayerPrefs.GetFloat("Volume", 1f);
 
@@ -25,7 +17,6 @@ public class AudioManager : MonoBehaviour
         {
             s.source = gameObject.AddComponent<AudioSource>();
             s.source.clip = s.clip;
-
             s.source.volume = value;
             s.source.pitch = s.pitch;
             s.source.loop = s.loop;
@@ -40,6 +31,7 @@ public class AudioManager : MonoBehaviour
     public void Play(string name)
     {
         Sound s = Array.Find(sounds, sound => sound.name == name);
+
         if(s == null)
         {
             Debug.LogWarning("Sound: " + name + " not found");
@@ -57,5 +49,18 @@ public class AudioManager : MonoBehaviour
         }
 
         PlayerPrefs.SetFloat("Volume", value);
+    }
+
+    private void Singleton()
+    {
+        if (instance == null)
+            instance = this;
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        DontDestroyOnLoad(gameObject);
     }
 }

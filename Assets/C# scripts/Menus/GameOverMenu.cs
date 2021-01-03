@@ -37,6 +37,7 @@ public class GameOverMenu : MonoBehaviour
     {
         gameIsOver = false;
         Time.timeScale = 1f;
+
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 }

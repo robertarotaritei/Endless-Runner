@@ -13,12 +13,12 @@ public class Manager : MonoBehaviour
     IEnumerator GameOver()
     {
         Time.timeScale = 1f / slowDownFactor;
-        Time.fixedDeltaTime = Time.fixedDeltaTime / slowDownFactor;
+        Time.fixedDeltaTime /= slowDownFactor;
 
         yield return new WaitForSeconds(1f / slowDownFactor);
 
         Time.timeScale = 1f;
-        Time.fixedDeltaTime = Time.fixedDeltaTime * slowDownFactor;
+        Time.fixedDeltaTime *= slowDownFactor;
         FindObjectOfType<GameOverMenu>().gameIsOver = true;
     }
 }

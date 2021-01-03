@@ -3,6 +3,7 @@
 public class FastSpawner : Spawner
 {
     private int randomSpawn;
+
     public FastSpawner(GameObject block, Transform[] spawnPoints)
     {
         base.block = block;
