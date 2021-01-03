@@ -51,14 +51,14 @@ MonoBehaviour:
     loop: 1
     source: {fileID: 0}
   - name: PlayerDeath
-    clip: {fileID: 0}
-    volume: 0.434
-    pitch: 1
+    clip: {fileID: 8300000, guid: fb0935ac9c370b244a22293c07fa84bc, type: 3}
+    volume: 0.129
+    pitch: 2
     loop: 0
     source: {fileID: 0}
   - name: ScoreUp
     clip: {fileID: 8300000, guid: ca9833b12dc787b4b9c74b7d9159d16a, type: 3}
-    volume: 1
+    volume: 0.594
     pitch: 1
     loop: 0
     source: {fileID: 0}
