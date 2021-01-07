@@ -6,9 +6,7 @@ Endless Runner is a game made in Unity. The player controls a block that has to 
 
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Assets/Sprites/Screenshot.png" alt="Screenshot" width="100%" height="100%">
-  </a>
+  <img src="Assets/Sprites/Screenshot.png" alt="Screenshot" width="100%" height="100%">
 </p>
 
 ## Features
